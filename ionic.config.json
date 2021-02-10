@@ -1,0 +1,7 @@
+{
+  "name": "sqlitecrud",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
